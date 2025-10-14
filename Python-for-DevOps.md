@@ -1,4 +1,4 @@
-# Interview Questions (Beginner and Intermediate)
+## Interview Questions (Beginner and Intermediate)
 
 ## Describe a real-world example of how you used Python to solve a DevOps challenge.
 
@@ -7,7 +7,7 @@
   - JIRA integration
   - File Operations
 
-## Discuss the challenges that you faced while using Python for DevOps and how did you overcome it.
+## Discuss the challenges that you faced while using Python for DevOps and how did you overcome it..
 
 - Here you can mention about a challenge that you faced while implementating a Python project for DevOps that we learnt.
 
@@ -15,7 +15,7 @@
 
 - Handle any sensetive information using Input variables, command line arguments or env vars.
 
-## Explain the difference between mutable and immutable objects.
+### Explain the difference between mutable and immutable objects.
 
 In Python, mutable objects can be altered after creation, while immutable objects cannot be changed once created. For instance:
 
@@ -76,7 +76,7 @@ myenv\Scripts\activate
 source myenv/bin/activate
 ```
 
-## What are decorators in Python?
+### What are decorators in Python?
 
 Decorators modify the behavior of functions. They take a function as an argument, add some functionality, and return another function without modifying the original function's code. Example:
 
