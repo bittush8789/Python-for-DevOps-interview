@@ -4,7 +4,7 @@
 You can use the `docker` Python SDK to programmatically start a Docker container. This script takes an image name as input, pulls the image if it doesn’t exist locally, and runs a container based on it.
 
 ### Answer
-Use `docker.from_env()` to connect to the local Docker engine and run the container with the provided image name.
+Use `docker.from_env()` to connect to the local Docker engine and run the container with the provided image name..
 
 ### Detailed explanation (with examples)
 
